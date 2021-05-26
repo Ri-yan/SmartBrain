@@ -1,5 +1,6 @@
 {
   "name": "smartbrain",
+  "homepage": "https://ri-yan.github.io/SmartBrain",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
