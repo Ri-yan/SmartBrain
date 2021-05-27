@@ -4,7 +4,7 @@ const ImageLinkForm=()=>{
 	return(
 		<div className="ma3 mt0">
 			<p className="f3">
-			{'This Magic Brain will detect faces in your picture. Give it atry.'}
+			{'This Magic Brain will detect faces in your picture. Give it a try.'}
 			</p>
 			<div className="center">
 			<div className=" form center glow pa4 br3 shadow-3">
