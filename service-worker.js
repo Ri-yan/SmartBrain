@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Ri-yan/SmartBrain/precache-manifest.ee28dbe72c674594a972e2a81aca6ac8.js"
+  "/Ri-yan/SmartBrain/precache-manifest.1e9c6ce367c75e10731e9fe7df91d979.js"
 );
 
 workbox.clientsClaim();
