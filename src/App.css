@@ -1,4 +1,14 @@
+.particles{
+  position:fixed ; /*everything stays fixed*/
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;  /*layers*/
+}
+
 .App {
+  position:sticky;
   text-align: center;
   
 }
@@ -23,22 +33,7 @@ background-size: 40px 60px;
 button{
   cursor: pointer;
 }
-.particles{
-  position:fixed ; /*everything stays fixed*/
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: -1;  /*layers*/
-}
-.particles {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: -1;
-}
+
 
 /*@media (prefers-reduced-motion: no-preference) {
   

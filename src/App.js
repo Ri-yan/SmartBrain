@@ -9,23 +9,46 @@ import Particles from 'react-particles-js';
 const particlesOptions = {
   particles: {
     number: {
-      value: 30,
+      value: 65,
       density: {
         enable: true,
-        value_area: 800
+        value_area: 750
       }
     }
-  }
-}
+  }, "interactivity": {
+          "events": {
+              "onhover": {
+                  "enable": true,
+                  "mode": "repulse"
+              }
+          }
+      }
 
+}
+// {
+//       "particles": {
+//           "number": {
+//               "value": 50
+//           },
+//           "size": {
+//               "value": 3
+//           }
+//       },
+//       "interactivity": {
+//           "events": {
+//               "onhover": {
+//                   "enable": true,
+//                   "mode": "repulse"
+//               }
+//           }
+//       }
+//   }
 class App extends React.Component {
     render() {
       return (
       <div className="App " >
        <Particles className="particles" 
           params={particlesOptions}
-       style={{"z-index":"1"}}
-       
         />
         <Navigation />
         <Logo />
