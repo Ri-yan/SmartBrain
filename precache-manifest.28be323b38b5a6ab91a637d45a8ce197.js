@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "339ad43ce6637bbbb559",
-    "url": "/SmartBrain/static/css/main.08ac3dd8.chunk.css"
+    "revision": "a3dd239445f2d9b503d9",
+    "url": "/SmartBrain/static/css/main.c56c9ceb.chunk.css"
   },
   {
-    "revision": "339ad43ce6637bbbb559",
-    "url": "/SmartBrain/static/js/main.11ddb20e.chunk.js"
+    "revision": "a3dd239445f2d9b503d9",
+    "url": "/SmartBrain/static/js/main.603e818f.chunk.js"
   },
   {
     "revision": "cf880590e318a5a0fbc7",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/SmartBrain/static/media/brain.4100098c.png"
   },
   {
-    "revision": "b5d634e9c7b8f488ca243cc0775b6ae9",
+    "revision": "30c58bb49d714da7f94fde219d7363d3",
     "url": "/SmartBrain/index.html"
   }
 ];
