@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "41835279fb7f043a83ad",
-    "url": "/Ri-yan/SmartBrain/static/css/main.01796d90.chunk.css"
+    "revision": "339ad43ce6637bbbb559",
+    "url": "/Ri-yan/SmartBrain/static/css/main.08ac3dd8.chunk.css"
   },
   {
-    "revision": "41835279fb7f043a83ad",
-    "url": "/Ri-yan/SmartBrain/static/js/main.0f35a2f7.chunk.js"
+    "revision": "339ad43ce6637bbbb559",
+    "url": "/Ri-yan/SmartBrain/static/js/main.11ddb20e.chunk.js"
   },
   {
     "revision": "2cef326ce5761668af15",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/Ri-yan/SmartBrain/static/media/brain.4100098c.png"
   },
   {
-    "revision": "e54d0dcd18fc9350b296179a534b0f12",
+    "revision": "b3e310a4f75fbc007c0ff5fb36d41a91",
     "url": "/Ri-yan/SmartBrain/index.html"
   }
 ];
