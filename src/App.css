@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 .center{
   display: flex;
@@ -30,9 +31,16 @@ button{
   left: 0;
   z-index: -1;  /*layers*/
 }
-
-
-@media (prefers-reduced-motion: no-preference) {
-  
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
 }
 
+/*@media (prefers-reduced-motion: no-preference) {
+  
+}
+*/

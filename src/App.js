@@ -6,13 +6,13 @@ import Logo from './components/Logo';
 import Rank from './components/Rank';
 import Particles from 'react-particles-js';
 
-const particleOptions = {
+const particlesOptions = {
   particles: {
-    number:{
-      value:30,
+    number: {
+      value: 30,
       density: {
         enable: true,
-        value_area:800
+        value_area: 800
       }
     }
   }
@@ -21,10 +21,12 @@ const particleOptions = {
 class App extends React.Component {
     render() {
       return (
-      <div className="App">
-      <Particles className='particles'
-                params={particleOptions} 
-                />
+      <div className="App " >
+       <Particles className="particles" 
+          params={particlesOptions}
+       style={{"z-index":"1"}}
+       
+        />
         <Navigation />
         <Logo />
         <Rank/>
