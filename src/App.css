@@ -39,3 +39,11 @@ button{
   
 }
 */
+@media only screen and (width: 540px){
+  html{
+  font-size: 0.9rem;
+}
+.but{
+  font-size: 0.9rem;
+}
+}
